@@ -11,33 +11,6 @@ To run the application and start scraping Flipkart product reviews, follow these
 - Python 3.x
 - Django (installed via `pip`)
 
-### Installation
-
-1. Clone this GitHub repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/flipkart-review-scraper.git
-```
-
-2. Change into the project directory:
-
-```bash
-cd flipkart-review-scraper
-```
-
-3. Create and activate a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate   # On Windows, use: venv\Scripts\activate
-```
-
-4. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Running the Application
 
 1. Start the Django development server:
